@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi, Hello, Hey.!!!
+=======
+Hi, Hello, Hey.
+>>>>>>> testing
